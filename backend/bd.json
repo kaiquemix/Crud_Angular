@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.21
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.75
+    },
+    {
+      "name": "Redmi note 8",
+      "price": "1500.50",
+      "id": 4
+    },
+    {
+      "name": "Kaique Ferreira",
+      "price": "22",
+      "id": 5
+    }
+  ]
+}
